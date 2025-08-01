@@ -1,4 +1,4 @@
-# AI Project Analyst & Business Idea Generator
+# Code-to-Venture
 
 This project uses a crew of AI agents, powered by the `crewAI` framework, to automatically analyze a local software project and generate potential business use cases for it.
 
